@@ -1,0 +1,21 @@
+.container {
+  border: 3px solid rgb(156, 154, 154);
+  border-radius: 5px;
+  background-color: white;
+}
+body {
+  background-color: #00ff9c;
+}
+form {
+  border: 3px solid white;
+  border-radius: 5px;
+  background-color: #d4d4d4;
+}
+
+.gen-body {
+  text-align: justify;
+  overflow: scroll;
+}
+.gen-content {
+  height: 500px;
+}
